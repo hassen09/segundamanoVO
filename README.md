@@ -1,0 +1,2 @@
+# segundamanoVO
+Python,Scrapy,  Proxy
